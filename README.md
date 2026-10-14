@@ -8,14 +8,11 @@ A TradingView strategy written in Pine Script v6 that trades EMA crossovers on s
 > **Status:** Version 1. Backtest-ready, not yet validated across many stocks or market periods. See [Limitations](#limitations).
 
 ## Project Links
-## Project Links
 
 | Screenshots | Scripts | Documentation | Flowchart |
 | --- | --- | --- | --- |
 | [View Screenshots](https://docs.google.com/document/d/1So0hk_Ykha6OxjFBPzy3sDxTguq7ddppWgsuZQSCzlQ/edit?usp=sharing) | [View Scripts](https://docs.google.com/document/d/12oKnVze80LBHstqQvMkEB_NPonAj98CPUONo54K-6hw/edit?usp=sharing) | [View Documentation](https://docs.google.com/document/d/1IuOcibLxwUzc4knRpktxlNAj_1XnKousebCca2FxuHk/edit?usp=sharing) | [View Flowchart](https://excalidraw.com/#json=q6HRQhGJnJJzh4a2nEIVk,Z6uiWfqK14CW7mkTzWpPLQ) |
 
----
----
 ---
 
 ## Table of Contents
