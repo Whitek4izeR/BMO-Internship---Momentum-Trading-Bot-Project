@@ -1,8 +1,7 @@
-# Momentum-Trading-Bot-Project
-Momentum Trading Bot Project on Tradingview for Small Cap Stocks with Backtesting
-
-
 # Small-Cap EMA + RSI + Volume Strategy (TradingView)
+- Momentum Trading Bot Project
+- Momentum Trading Bot Project on Tradingview for Small Cap Stocks with Backtesting
+
 
 A TradingView strategy written in Pine Script v6 that trades EMA crossovers on small-cap stocks, with RSI, volume, and liquidity filters plus ATR-based stop-loss and take-profit.
 
